@@ -32,23 +32,23 @@ This project was developed using **KiCad v9**, an open-source EDA tool.
 ---
 
 ## Schematic  
-*(Insert image here)*  
+![alt text](assets/schematic.png) 
 
 ## PCB Layout  
 ### Component Placement  
-*(Insert image here)*  
+![alt text](assets/components_placement.png)
 
 ### Overall Board Layout  
-*(Insert image here, with dimensions marked)*  
+![alt text](assets/wiring.png)
 
 ---
 
 ## 3D View  
 ### Top View  
-*(Insert image here)*  
+![alt text](assets/3d_top_view.png)
 
 ### Bottom View  
-*(Insert image here)*  
+![alt text](assets/3d_bottom_view.png)
 
 ---
 
