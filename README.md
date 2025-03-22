@@ -27,7 +27,7 @@ This project was developed using **KiCad v9**, an open-source EDA tool.
 
 ### Component Footprints  
 - All **resistors, capacitors, inductors, and LEDs** use:  
-  **0402_1005Metric_Pad0.72x0.64mm_HandSolder**  
+  **0402_1005Metric**  
 
 ---
 
