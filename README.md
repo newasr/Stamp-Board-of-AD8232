@@ -46,6 +46,7 @@ This project was developed using **KiCad v9**, an open-source EDA tool.
 ## 3D View  
 ### Top View  
 ![alt text](assets/3d_top_view.png)
+![alt text](image.png)
 
 ### Bottom View  
 ![alt text](assets/3d_bottom_view.png)
